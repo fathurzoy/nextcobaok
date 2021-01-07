@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport MainCarousel from \"../components/Carousel/Carousel\";\n\nvar Home = function Home() {\n  return __jsx(\"main\", {\n    className: \"page_home\"\n  }, __jsx(MainCarousel, null), __jsx(\"h1\", null, \"wellcome\"));\n};\n\nexport default Home;","map":null,"metadata":{},"sourceType":"module"}
