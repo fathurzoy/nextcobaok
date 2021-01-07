@@ -11,7 +11,7 @@ const MainCarousel = () => {
           <img src="https://picsum.photos/seed/151/900" className="d-block w-100" alt="gambar" height="400px" />
         </div>
         <div className="carousel-item">
-          <img src="https://picsum.photos/seed/155/900" className="d-block w-100" alt="gambar" height="400px" />
+          <img src="https://picsum.photos/seed/13/900" className="d-block w-100" alt="gambar" height="400px" />
         </div>
       </div>
       <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
